@@ -1,0 +1,47 @@
+# Build output
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio
+.vs/
+
+# Configuration files
+**/appsettings.*.json
+*.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# EF Core Migrations snapshots (optional to exclude)
+**/*Snapshot.cs
+
+# Secrets or sensitive
+secrets.json
+
+# Auto-generated AssemblyInfo
+**/Properties/AssemblyInfo.cs
+
+# Optional NuGet packages folder
+packages/
+
+# Ignore Properties folder (optional)
+**/Properties/
+
+MessageProcessingAndAnomalyDetectionService/
+ServerMonitoringAndNotificationSystem/Configuration/
+ServerMonitoringAndNotificationSystem/Models/
+ServerMonitoringAndNotificationSystem/Interfaces/
+ServerMonitoringAndNotificationSystem/Services/
+ServerMonitoringAndNotificationSystem/appsettings.json
+ServerMonitoringAndNotificationSystem/Program.cs
+ServerMonitoringAndNotificationSystem/docker-compose.yml
