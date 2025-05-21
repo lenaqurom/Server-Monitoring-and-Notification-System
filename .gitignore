@@ -38,10 +38,3 @@ packages/
 **/Properties/
 
 MessageProcessingAndAnomalyDetectionService/
-ServerMonitoringAndNotificationSystem/Configuration/
-ServerMonitoringAndNotificationSystem/Models/
-ServerMonitoringAndNotificationSystem/Interfaces/
-ServerMonitoringAndNotificationSystem/Services/
-ServerMonitoringAndNotificationSystem/appsettings.json
-ServerMonitoringAndNotificationSystem/Program.cs
-ServerMonitoringAndNotificationSystem/docker-compose.yml
